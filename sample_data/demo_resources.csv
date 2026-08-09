@@ -1,0 +1,7 @@
+resource_id,resource_name,resource_type,category,available_quantity,location,distance_km
+RES-001,Water Supply Unit,Supply,water,80,Depot North,6
+RES-002,Medical Aid Team,Volunteer,medicine,20,Hospital Road,9
+RES-003,Blanket Distribution Center,Supply,blanket,50,Warehouse West,12
+RES-004,Community Food Bank,Supply,food,60,Food Hub East,8
+RES-005,Mobile Hygiene Team,Volunteer,hygiene,40,Depot South,18
+RES-006,Emergency Power Unit,Supply,power,15,Energy Hub,21
